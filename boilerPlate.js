@@ -1,1 +1,1 @@
-console.log("AccountKeyPublic BoilerPlate")
+console.log("AccountKeyFail BoilerPlate")
