@@ -1,1 +1,1 @@
-console.log("AccountKeyFail BoilerPlate")
+console.log("ValueTransfer BoilerPlate")
